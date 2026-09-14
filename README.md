@@ -1,7 +1,5 @@
 # Agentforce Architecture and Strategy
 
-![Agentforce Architecture and Strategy](https://github.com/TrailblazerLabs/Agentforce-Architecture-and-Strategy/raw/main/assets/banner.png)
-
 ## Overview
 
 Agentforce Architecture and Strategy is a collection of practical frameworks, guidance, discovery tools, and architecture resources for designing responsible, scalable, and valuable agentic solutions on the Salesforce platform.
