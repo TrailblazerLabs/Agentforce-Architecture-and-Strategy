@@ -38,6 +38,8 @@ The resources in this repository are designed to be used as guidance rather than
 
 Start with the material most relevant to the problem you are trying to solve. Use the frameworks, discovery questions, process maps, architecture principles, and lessons learned to challenge assumptions and help shape your own approach.
 
+[![Download PDF](https://img.shields.io/badge/Download-Agentforce%20Architecture%20Philosophy-red?style=for-the-badge&logo=adobeacrobatreader)](architecture/agentforce-architecture-philosophy-v1.pdf)
+
 These assets are intended to:
 
 - Provide a catalyst for architecture and strategy discussions.
